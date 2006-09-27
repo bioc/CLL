@@ -12,5 +12,6 @@ Description:  The CLL package contains the chronic lymphocytic leukemia (CLL)
  Biotechnologies and Hematology, University La Sapienza, Rome, Italy and
  Dr. Jerome Ritz at Department of Medicine, Brigham and Women's Hospital,
  Harvard Medical School, Boston, Massachusetts.
+Depends: R (>= 2.4.0), affy
 License: LGPL
 biocViews: ExperimentData
