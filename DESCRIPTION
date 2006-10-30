@@ -1,7 +1,7 @@
 Package: CLL
 Type: Package
 Title: A Package for CLL Gene Expression Data
-Version: 1.2.0
+Version: 1.2.1
 Date: 2006-08-09
 Author: Elizabeth Whalen
 Maintainer: Elizabeth Whalen <ewhalen@hsph.harvard.edu>
