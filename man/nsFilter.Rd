@@ -1,9 +1,9 @@
 \name{nsFilter}
 \alias{nsFilter}
 \docType{data}
-\title{ Nonspecific filtering boolean values for the sCLLex exprSet object}
+\title{ Nonspecific filtering boolean values for the sCLLex ExpressionSet object}
 \description{
-  nsFilter is the nonspecific filtering boolean values for the sCLLex exprSet
+  nsFilter is the nonspecific filtering boolean values for the sCLLex ExpressionSet
   object.  One filter was use: genes with an IQR greater than or equal to the
   median IQR (IQR performed on the rows of the expression matrix) have a TRUE
   value (passed the filter) and those that had an IQR less than the median

@@ -1,19 +1,19 @@
 \name{sCLLex}
 \alias{sCLLex}
 \docType{data}
-\title{ The exprSet object for the CLL microarray data}
+\title{ The ExpressionSet object for the CLL microarray data}
 \description{
-  The exprSet object was obtained by performing gcrma on the AffyBatch object
+  The ExpressionSet object was obtained by performing gcrma on the AffyBatch object
   (CLLbatch).  Two arrays were of questionable quality so these two arrays
   (CLL1 and CLL10) were removed before performing gcrma on CLLbatch.  The
-  sCLLex exprSet object has 22 samples and 12,625 genes.  The Affymetrix
+  sCLLex ExpressionSet object has 22 samples and 12,625 genes.  The Affymetrix
   hug95av2 arrays were used and the 22 samples came from 22 CLL patients that
   were either classified as stable or progressive in regards to disease
   progression. 
 }
 \usage{data(sCLLex)}
 \format{
-  An exprSet object with 22 samples and 12,625 genes.  The
+  An ExpressionSet object with 22 samples and 12,625 genes.  The
   Affymetrix hgu95av2 array was used and gcrma was used for preprocessing the
   AffyBatch object.
   \describe{
