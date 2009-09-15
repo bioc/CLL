@@ -29,9 +29,7 @@ Elizabeth Whalen
 Maintainer: Elizabeth Whalen <ewhalen@hsph.harvard.edu>
 }
 \keyword{ package }
-\seealso{
-  \code{\link[<pkg>:<pkg>-ALL]{<pkg>}} 
-}
+
 \examples{
   data(sCLLex)
 }
