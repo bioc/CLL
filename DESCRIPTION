@@ -1,10 +1,10 @@
 Package: CLL
 Type: Package
 Title: A Package for CLL Gene Expression Data
-Version: 1.7.0
+Version: 1.7.1
 Author: Elizabeth Whalen
 Maintainer: Robert Gentleman <rgentlem@fhcrc.org>
-Description:  The CLL package contains the chronic lymphocytic leukemia (CLL)
+Description: The CLL package contains the chronic lymphocytic leukemia (CLL)
  gene expression data.  The CLL data had 24 samples that were either classified
  as progressive or stable in regards to disease progression.  The data came
  from Dr. Sabina Chiaretti at Division of Hematology, Department of Cellular
@@ -13,4 +13,4 @@ Description:  The CLL package contains the chronic lymphocytic leukemia (CLL)
  Harvard Medical School, Boston, Massachusetts.
 Depends: R (>= 2.10), affy (>= 1.23.4), Biobase (>= 2.5.5)
 License: LGPL
-biocViews: ExperimentData, Cancer, Leukemia
+biocViews: ExperimentData, CancerData, LeukemiaCancerData, MicroarrayData
