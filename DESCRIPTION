@@ -1,7 +1,7 @@
 Package: CLL
 Type: Package
 Title: A Package for CLL Gene Expression Data
-Version: 1.22.0
+Version: 1.23.0
 Author: Elizabeth Whalen
 Maintainer: Robert Gentleman <rgentlem@fhcrc.org>
 Description: The CLL package contains the chronic lymphocytic leukemia (CLL)
